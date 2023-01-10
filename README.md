@@ -1,5 +1,5 @@
-
-# ![Logo](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/Sprite/logo.png)  | JessShoppe
+![Logo](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/Sprite/logo.png) 
+# | JessShoppe
 
 A landing page website for the customers of JessShoppe. It combines all the external links of the business into one place. The site has a bulletin board that pulls the latest post from Twitter, a Facebook chat head that is connected to Facebook, and an order tracking page that is hooked up on the Google Sheets
 ## Authors
