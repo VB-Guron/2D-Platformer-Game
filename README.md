@@ -1,24 +1,40 @@
-![Logo](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/Sprite/logo.png) 
-# | JessShoppe
 
-A landing page website for the customers of JessShoppe. It combines all the external links of the business into one place. The site has a bulletin board that pulls the latest post from Twitter, a Facebook chat head that is connected to Facebook, and an order tracking page that is hooked up on the Google Sheets
+# 👑| The Recovery of the Crown of Power
+
+A 2D Platformer Game created with unity
 ## Authors
-- Project Manager: Janella De Chavez
-- Bussiness Analyst: [Von Bryan Guron](https://github.com/VB-Guron)
-- System Analyst: Nymphel Rafanan
-- Developer: Pierre Ramos
-- Developer: Daniel Radovan
-- Quality Assurance Officer: Miguel Martin
-- Quality Assurance Ofiicer: Ronne Pascua
+
+- [Von Bryan Guron](https://github.com/VB-Guron)
+
 
 
 
 ## 🛠 Skills
-HTML, CSS, SASS, Facebook API, Twitter API, and Google Sheet API
-
-
+C# and Unity
 ## UI of the Application
 
-![App Screenshot](https://github.com/VB-Guron/SE_JessShoppe/blob/main/Screenshot/0001.png)
-![App Screenshot](https://github.com/VB-Guron/SE_JessShoppe/blob/main/Screenshot/0002.png)
-![App Screenshot](https://github.com/VB-Guron/SE_JessShoppe/blob/main/Screenshot/0003.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/001.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/002.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/003.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/004.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/005.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/006.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/007.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/008.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/009.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/010.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/011.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/012.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/013.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/014.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/015.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/016.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/017.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/018.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/019.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/020.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/021.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/022.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/023.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/024.png)
+![App Screenshot](https://github.com/VB-Guron/2D-Platformer-Game/blob/master/Assets/screenshot/025.png)
